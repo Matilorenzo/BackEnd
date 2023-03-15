@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.portfolio.MLG.MlgApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 42.369 s - in com.portfolio.MLG.MlgApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 104.576 s - in com.portfolio.MLG.MlgApplicationTests
